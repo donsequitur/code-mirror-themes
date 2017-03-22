@@ -63,3 +63,6 @@
 .cm-s-oceanic .CodeMirror-linenumber {
 	color: #6D6D6D;
 }
+.cm-s-oceanic .CodeMirror-matchingtag { 
+    background: rgba(69,106,140,.3);
+}
